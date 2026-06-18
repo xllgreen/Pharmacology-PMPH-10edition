@@ -11,7 +11,7 @@
 > 基于人民卫生出版社《药理学》第10版的临床药学技能手册 — 180 项核心药理学技能
 <br>
 <br>
-<img src="/assets/Pathophysiology-PMPH-10edition.jpg" width="260px">
+<img src="/assets/Pharmacology-PMPH-10edition.jpg" width="260px">
 <br>
 
 
